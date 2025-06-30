@@ -1,0 +1,6 @@
+path: D:\Cigarette-Detection-YOLOv8n-main\people 2.v1i.yolov8
+train: images/train
+val: images/val
+
+nc: 1
+names: ['cigarette']

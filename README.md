@@ -1,1 +1,1 @@
-# Human-Detection
+# Cigarette-Detection-YOLOv8n
